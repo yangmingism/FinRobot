@@ -15,3 +15,5 @@ projects/
 dist/
 tmp/
 filings/
+/.venv
+config_api_keys
