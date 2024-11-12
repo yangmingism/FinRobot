@@ -294,6 +294,25 @@ assistant.chat(message, use_cache=True, max_turns=50,
 + [TowardsDataScience] [浏览 LLM 代理的世界：初学者指南](https://towardsdatascience.com/navigating-the-world-of-llm-agents-a-beginners-guide-3b8d499db7a9)
 + [YouTube] [介绍 Devin - “第一个” AI 代理软件工程师](https://www.youtube.com/watch?v=iVbN95ica_k)
 
+## Citing FinRobot
+```
+@inproceedings{
+zhou2024finrobot,
+title={FinRobot: {AI} Agent for Equity Research and Valuation with Large Language Models},
+author={Tianyu Zhou and Pinqiao Wang and Yilin Wu and Hongyang Yang},
+booktitle={The 1st Workshop on Large Language Models and Generative AI for Finance},
+year={2024}
+}
+
+@article{yang2024finrobot,
+  title={FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models},
+  author={Yang, Hongyang and Zhang, Boyu and Wang, Neng and Guo, Cheng and Zhang, Xiaoli and Lin, Likun and Wang, Junlin and Zhou, Tianyu and Guan, Mao and Zhang, Runjia and others},
+  journal={arXiv preprint arXiv:2405.14767},
+  year={2024}
+}
+```
+**Disclaimer**: The codes and documents provided herein are released under the Apache-2.0 license. They should not be construed as financial counsel or recommendations for live trading. It is imperative to exercise caution and consult with qualified financial professionals prior to any trading or investment actions.
+
 
 ## AI 代理开源框架和工具
 + [AutoGPT（163k 星）](https://github.com/Significant-Gravitas/AutoGPT) 是一款供所有人使用的工具，旨在使 AI 民主化，使其能够供所有人使用和构建。
